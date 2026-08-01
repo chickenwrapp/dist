@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "logos": [
     {
       "entityId": "00c2f51c-9dbb-5167-b04b-74448d70aca4",
@@ -88,6 +88,10 @@
     {
       "entityId": "10f5c344-4899-50dc-bd4e-22e9873a1414",
       "file": "10f5c344-4899-50dc-bd4e-22e9873a1414.png"
+    },
+    {
+      "entityId": "11574c48-7db8-5b75-a364-85db33c7d0bd",
+      "file": "11574c48-7db8-5b75-a364-85db33c7d0bd.png"
     },
     {
       "entityId": "11e7f7c0-f6b6-551d-9cb4-4490f85ed128",
@@ -218,6 +222,10 @@
       "file": "27d2dae4-1d63-5f6b-846f-77e5f5932f54.png"
     },
     {
+      "entityId": "28252861-ef16-5eb8-a858-b4e4d2bbc2e8",
+      "file": "28252861-ef16-5eb8-a858-b4e4d2bbc2e8.png"
+    },
+    {
       "entityId": "28977ad3-4e4d-533b-9c0b-cca15a6c28d5",
       "file": "28977ad3-4e4d-533b-9c0b-cca15a6c28d5.png"
     },
@@ -264,6 +272,10 @@
     {
       "entityId": "2dc71b8c-401b-517e-87b8-1f3af088619e",
       "file": "2dc71b8c-401b-517e-87b8-1f3af088619e.png"
+    },
+    {
+      "entityId": "2e2f1a79-fe61-5f7e-a250-442269a5ea97",
+      "file": "2e2f1a79-fe61-5f7e-a250-442269a5ea97.png"
     },
     {
       "entityId": "2ecfee07-15d6-5746-8673-682f39d5d785",
@@ -446,6 +458,10 @@
       "file": "4ad382a5-b93d-5660-a4f1-70fc749e45ad.png"
     },
     {
+      "entityId": "4b1be271-38bb-5a17-8061-84fbfec0ff39",
+      "file": "4b1be271-38bb-5a17-8061-84fbfec0ff39.png"
+    },
+    {
       "entityId": "4cc5d873-c6d3-5980-8897-74b1f911e8ec",
       "file": "4cc5d873-c6d3-5980-8897-74b1f911e8ec.png"
     },
@@ -484,6 +500,10 @@
     {
       "entityId": "53e881c3-3037-50b4-9f6c-41dee1a6b088",
       "file": "53e881c3-3037-50b4-9f6c-41dee1a6b088.png"
+    },
+    {
+      "entityId": "54b0b2f6-1300-571f-85f8-41bf16ae9a21",
+      "file": "54b0b2f6-1300-571f-85f8-41bf16ae9a21.png"
     },
     {
       "entityId": "54d67efd-bd2c-55c0-afed-8103e3e97aaf",
@@ -684,6 +704,10 @@
     {
       "entityId": "712ba956-de41-51e4-a499-0819907ee646",
       "file": "712ba956-de41-51e4-a499-0819907ee646.png"
+    },
+    {
+      "entityId": "71af2bc7-1cfe-5804-adfa-fc67b0199625",
+      "file": "71af2bc7-1cfe-5804-adfa-fc67b0199625.png"
     },
     {
       "entityId": "725f054e-7c5c-5ad2-b0e0-c6fba1303e56",
@@ -1258,6 +1282,10 @@
       "file": "ca24182c-6301-5929-9c52-42770b30f49d.png"
     },
     {
+      "entityId": "cad69722-f43f-57e0-8b4f-162bf5b7b01b",
+      "file": "cad69722-f43f-57e0-8b4f-162bf5b7b01b.png"
+    },
+    {
       "entityId": "cb051b9e-4a3b-5cf7-9cff-ce7ed5f298a3",
       "file": "cb051b9e-4a3b-5cf7-9cff-ce7ed5f298a3.png"
     },
@@ -1492,6 +1520,10 @@
     {
       "entityId": "f665d4ac-cd3e-5380-a1ec-0971e1c464e9",
       "file": "f665d4ac-cd3e-5380-a1ec-0971e1c464e9.png"
+    },
+    {
+      "entityId": "f7166013-f45f-5b69-a7f5-3b2f2035b0a8",
+      "file": "f7166013-f45f-5b69-a7f5-3b2f2035b0a8.png"
     },
     {
       "entityId": "f81c96ad-fba2-506a-978f-897f86e88dec",
